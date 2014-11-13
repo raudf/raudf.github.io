@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Flo's
+tagline:          'Welcome to Flo&#39;s'
+description:      'Welcome to Flo&#39;s'
+url:              
+baseurl:          /
+
+author:
+  name:           'Florentin Raud'
+  url:            http://florentin-raud.net
+
+paginate:         5
+
+# Custom vars
+github:
+  repo:           https://github.com/kyzh
+linkedin:	  http://uk.linkedin.com/in/florentinraud
