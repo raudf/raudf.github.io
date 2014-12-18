@@ -126,3 +126,4 @@ What is missing ?
 There are [alternatives](http://alternativeto.net/software/geckoboard/).  
 One of my favorite one is [dashing](http://dashing.io/) if you have the possibility to run it by yourself.  
 If you like geckboard and would like 10% off, you can always use [this link](http://ssqt.co/bSEX).  
+
