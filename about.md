@@ -23,7 +23,7 @@ Here is a list of open source project I contributed to:
 
 * The [Open Company Initiavite](http://www.opencompany.org/): The OCI tries to highlight companies that take openness as a defining principle.  
 The [contribution](https://github.com/opencompany/) revolve around translation and technical adaptation of the jekyll/github page instance towards internationnalisation.  
-* NOTE: due to antagonistics view with the project leader, I no longer condone/endorse the OCI, see [this issue](https://github.com/opencompany/www.opencompany.org/issues/145) for more details*
+**NOTE: due to antagonistics view with the project leader, I no longer condone/endorse the OCI, see [this issue](https://github.com/opencompany/www.opencompany.org/issues/145) for more details**
 * [Crewmate](https://github.com/crewmate/crewmate): A fork of teambox, a project management software with status wall, conversations, tasks, shared pages and file uploads.  
 I&#39;m involved in the fork re-branding from both technical(code and documentation) and less technical point (finding a new name, logo, typeface).  
 I also setup a jekyll/github page for [crewmate.org](crewmate.org), but it is currently underused.
