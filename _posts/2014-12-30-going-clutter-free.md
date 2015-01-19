@@ -8,10 +8,10 @@ The goal is to avoid getting interrupted by email every minute.
 That include unsubscribing from more than 60 mailing lists, 40 google groups, a dozen github project,  meetup emails, amazon, ebay, twitter and other commercial product emails.  
 
 There is a few open source project that I also put asside.  
-I didn't contribute much to The Foreman, but I kept a tab on it.  
+I didn't contribute much to [The Foreman](http://theforeman.org/), but I kept a tab on it.  
 Now I likely won't anytime soon, so I choose to stop subscribing to the project mailing list, github etc...  
 
-I'm also leaving the "Open Company Initiative" project.  
+I'm also leaving the ["Open Company Initiative"](http://www.opencompany.org/) project.  
 There has been few controversies, mainly with the project leader in the past.  
 While not happening on the "OCI" directly but on gittip/gratipay.  
 Gittip/gratipay is similar to "patreon", "subbable", "tipeee", "flattr": it helps people to get access to funds etc...  
