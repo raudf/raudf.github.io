@@ -1,6 +1,6 @@
 ---
 layout: post
-titile: Geckoboard
+title: Geckoboard
 ---
 
 Today I&#39;ve been looking at geckoboard once more.   

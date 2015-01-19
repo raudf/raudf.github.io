@@ -1,6 +1,6 @@
 ---
 layout: post
-titile: DevOps days ghent
+title: DevOps days ghent
 ---
 
 A quick bookmark post to remember that I have some backlog.  

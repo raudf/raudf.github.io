@@ -1,6 +1,6 @@
 ---
 layout: post
-titile: Short Films
+title: Short Films
 ---
 
 Once in a while, you want to watch something nice.  
