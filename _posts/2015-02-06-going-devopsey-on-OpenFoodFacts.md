@@ -17,11 +17,11 @@ My plan is to start by building an image with [packer](https://www.packer.io/).
 That will allow us to have a base image to build on top of.
 Packer will be used the same way I use to build VM with [the Foreman](http://theforeman.org/).
 It requires some information such as:
-  * Hardware to be emulated.
-  * Where to get the OS iso from.
-  * A preseed/kickstart/else to automate the installation process.
-  * The type of platform targeted (WMware, VirtualBox, AWS, etc).
-  * What configuration management needs running.
+* Hardware to be emulated.
+* Where to get the OS iso from.  
+* A preseed/kickstart/else to automate the installation process.
+* The type of platform targeted (WMware, VirtualBox, AWS, etc).
+* What configuration management needs running.
 
 Once you created an machine, you can run it with [vagrant](https://www.vagrantup.com/).
 It provides a simple way to describe and run an development environments.
