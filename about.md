@@ -34,11 +34,11 @@ I also setup a jekyll/github page for [crewmate.org](crewmate.org), but it is cu
 ## Projects
 I have a few pet project, usually created out of a particulary need:  
 
-* [Mutuatar.io](mutuatario-kyzh.rhcloud.com.): A tool to compute Mortgage details with some other option available to compute some cost specific to the UK.  
+* [Mutuatar.io](http://mutuatario-kyzh.rhcloud.com.): A tool to compute Mortgage details with some other option available to compute some cost specific to the UK.  
 * [guiro.org](guiro.org): My dad&#39;s own online presence, yet another jekyll instance.  
 
 ## Talks
-* An ignite about [monitorama 2013](http://monitorama.eu/) at the [London DevOps days 2013](http://devopsdays.org/events/2013-london/program/).The video is unfortunatly [online](http://vimeo.com/79375936) so are the [slides](http://www.slideshare.net/kyzh)
+* An ignite about [monitorama 2013](http://monitorama.eu/) at the [London DevOps days 2013](http://devopsdays.org/events/2013-london/program/).The video is unfortunatly [online](http://vimeo.com/79375936), so are the [slides](http://www.slideshare.net/kyzh)
 * I organised few graphite meetup in london.
 * usualy I enjoy taking part in open space discusion such as the one that take place during DevOps days or other technology meetup. 
 
