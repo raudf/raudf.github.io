@@ -20,6 +20,7 @@ The problem is that the first one to be detected and enabled is the HDMI one.
 
 To get sound working for mplayer I had to do the follwoing.  
 Create a ```/etc/asound.conf``` with the following:  
+
 ```
 pcm.!default {
     type hw
@@ -36,6 +37,7 @@ My default card is set to be the second one by order of apparition (0 being the 
 That way when application look for it, they don't get the HDMI, but the card connected to my speaker instead.  
 
 If we look at ```aplay -l``` the order is still wrong
+
 ```
 **** List of PLAYBACK Hardware Devices ****
 card 0: HDMI [HDA ATI HDMI], device 3: HDMI 0 [HDMI 0]
@@ -51,6 +53,7 @@ The next step is to trick the sound module into re-ordering the cards.
 
 I looked around a bit and while it all looked complicated, the solution is quite simple.  
 I edited (a then blank) ```/etc/modprobe.d/alsa-base.conf```
+
 ```
 options snd_hda_intel index=1
 ```
@@ -58,6 +61,7 @@ options snd_hda_intel index=1
 That way the first card detected is put to the index one.  
 Therefore the second card is able to take the index zero.  
 That way, I don't need the ```/etc/asound.conf``` and ```aplay -l``` has the rigth order:
+
 ```
 **** List of PLAYBACK Hardware Devices ****
 card 0: Generic [HD-Audio Generic], device 0: ALC269VB Analog [ALC269VB Analog]
