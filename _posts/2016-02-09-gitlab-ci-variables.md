@@ -62,11 +62,11 @@ There is likely more use cases, these are just the 3 that I encountered.
 
 ## Secure not so secure
 Giving your secrets to Gitlab.com is a choice, a choice to trust their security team.  
-Or you can run your own security team, I use [Sameer Naik s docker image](https://github.com/sameersbn/docker-gitlab) to run my own Gitlab instance.  
+Or you can run your own security team, I use [Sameer Naik's docker image](https://github.com/sameersbn/docker-gitlab) to run my own Gitlab instance.  
 You can run your own Gitlab instance and decide not to use secure variable.  
 I would argue that in the life span or your repo, you will regret such decision.  
 It might not be as secure as Travis CI and their [encrypted variable](https://docs.travis-ci.com/user/environment-variables/#Encrypted-Variables).  
-Then again Secure Variables are easier to use than travis CI s Encrypted Variables by far.  
+Then again Secure Variables are easier to use than travis CI's Encrypted Variables by far.  
 It depends what tradeoff do you prefer to live with. 
 
 ## Conclusion
