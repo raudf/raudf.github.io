@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitLab, GitHub and Bitbucket: Adding an SSH key
+title: GitLab, GitHub and Bitbucket - Adding an SSH key
 ---
 
 I recently had to add my SSH to few services including GitLab, GitHub and Bitbucket.  
