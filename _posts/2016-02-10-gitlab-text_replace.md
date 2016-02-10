@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitLab: How to replace text via the editor
+title: GitLab - How to replace text via the editor
 ---
 
 If you often have to juggle between the GitLab text editor and the command line, you often find yourself in pain.  
